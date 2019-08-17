@@ -5,8 +5,7 @@ if len(sys.argv) > 1:
 else:
     address = pyperclip.paste()
 
-link = ('https://www.google.com/maps/place/' + address)
-webbrowser.open(link)
+link = ('http://google.com/#q=aaa' + address)
+webbrowser.open('http://google.com/#q=aaa' + address)
 print(link)
-
 
