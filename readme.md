@@ -4,6 +4,7 @@ The file structure is:
 <pre>
 |-- user_2019/
 	|-- beautfulSoupLearn.py
+	|-- demo.gif
 	|-- downloadUser2019.py
 	|-- downloadUser2019_Old.py
 	|-- ex.html
@@ -16,6 +17,7 @@ The file structure is:
 </pre>
 
 of which downloadUser2019.py is most relevant, the other files are experimental and I used them to follow Al's tutorial
+demo.gif is a gif showing the downloadUser2019.py script in action
 
 # Tutorial/documentation
 The code is not heavily documented with comments, rather I have explained every nitty gritty in a tutorial at: http://bhattkeshav.com/web-scraping-tutorial-via-beautifulsoup/
